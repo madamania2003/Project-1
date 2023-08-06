@@ -1,2 +1,2 @@
-Starting first dtep to data analyst and data science 
+Starting first step to data analyst and data science 
 # Project-1
